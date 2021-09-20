@@ -1,6 +1,6 @@
 # PowerStrike  
 
-PowerStrike is a PowerShell based framework to assist a SOC Analyst query or contain multiple hosts simultaneously via the CrowdStrike OAuth2 API.  
+PowerStrike is a PowerShell based framework that assists a SOC Analyst to query or contain multiple hosts simultaneously via the CrowdStrike OAuth2 API.  
 It uses an open source PowerShell module PSFalcon with custom PowerShell to allow direct interaction with CrowdStrike.  
 
 ### Requirements:  
