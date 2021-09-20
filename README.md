@@ -35,8 +35,8 @@ It uses an open source PowerShell module PSFalcon with custom PowerShell to allo
 	o	Create, Update and Delete custom Real Time Response Scripts  
 	o	Upload and Delete Real Time Response files  
 -	Create, Update and Delete custom IOAs/IOCs  
--	Host Group and Policy Management
-	o	Create, Update and Delete Host Groups
+-	Host Group and Policy Management  
+	o	Create, Update and Delete Host Groups  
 	o	Create, Update and Delete Policies  
 	o	Apply and Remove Policies from Host Groups  
 
