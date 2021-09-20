@@ -11,6 +11,7 @@ It uses an open source PowerShell module PSFalcon with custom PowerShell to allo
 
 ### Current Capabilities:  
 -	Can be configured to communicate to the API via a proxy  
+	o Requires user to configure $proxyurl in function Set-Proxy	
 -	Obtain or revoke an OAuth2 token.  
 -	Configure output to CSV or TXT file.  
 -	Input hosts for queries via manual input or text file or both.  
