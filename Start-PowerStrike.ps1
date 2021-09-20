@@ -572,7 +572,7 @@ function Start-IOCSearchMenu() {
 
 #Configure proxy connection
 function Set-Proxy() {
-    $proxyurl = "http-gw.tcif.telstra.com.au"
+    $proxyurl = ""
     $proxyport = "8080"
     $proxyaddress = $proxyurl+':'+$proxyport
     #Test connection to proxy
