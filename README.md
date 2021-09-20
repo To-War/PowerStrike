@@ -14,7 +14,7 @@ It uses an open source PowerShell module PSFalcon with custom PowerShell to allo
 -	Obtain or revoke an OAuth2 token.  
 -	Configure output to CSV or TXT file.  
 -	Input hosts for queries via manual input or text file or both.  
-	o	Host input accepts Hostname, Agent ID or Cloud Instance ID.  
+	o	Host input accepts Hostname, Agent ID, Cloud Instance ID or External IP address.  
 -	Obtain basic host information about multiple hosts.  
 -	Query and return any detections for multiple hosts.  
 -	Can contain and uncontain multiple hosts.  
